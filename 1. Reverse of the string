@@ -28,3 +28,6 @@ public class Main
 	   }
 	   }
          }
+Output:
+Enter the string: temple
+The Reverse of the string is: elpmet
